@@ -44,6 +44,13 @@ export default function App() {
       img: 'https://i.pinimg.com/736x/44/6d/aa/446daa5efce3a4f516a18fe7bd660060.jpg',
       tags: ['Solo', 'Fertilidade'],
       desc: 'Relatórios laboratoriais e recomendações de corretivos e fertilizantes.'
+    },
+    {
+      id: 7,
+      title: 'Outro',
+      img: 'https://i.pinimg.com/736x/44/6d/aa/446daa5efce3a4f516a18fe7bd660060.jpg',
+      tags: ['Solo', 'Fertilidade'],
+      desc: 'Relatórios laboratoriais e recomendações de corretivos e fertilizantes.'
     }
   ];
 
